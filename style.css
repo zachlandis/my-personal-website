@@ -1,8 +1,7 @@
 body {
     font-family: Georgia;
-    text-align: center;
 }
 
-#Headshot {
-    size: 40%;
+h3 {
+    color: darkgreen;
 }
