@@ -2,6 +2,11 @@ body {
     font-family: Georgia;
 }
 
+#main-header {
+    font-family: Times;
+    color: darkgreen;
+}
+
 h3 {
     color: darkgreen;
 }
